@@ -6,4 +6,5 @@ typedef struct tagBITMAPFILEHEADER
     UINT16 bfReserved2;
     DWORD bfOffBits;
     Int avatar;
+    short int number;
 } BITMAPFILEHEADER; 
