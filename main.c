@@ -7,4 +7,5 @@ typedef struct tagBITMAPFILEHEADER
     DWORD bfOffBits;
     Int avatar;
     short int number;
+    char* hardworkLog;
 } BITMAPFILEHEADER; 
